@@ -1,0 +1,5 @@
+pscp qgis@gis-server:/home/qgis/orbe_full.backup C:\Users\m6cup3\Desktop
+pscp C:\Users\m6cup3\Desktop\orbe_full.backup qgis@46.101.216.29:/home/qgis/orbe_full.backup
+
+pscp qgis@gis-server:/home/qgis/smra_sols.backup C:\Users\m6cup3\Desktop
+pscp C:\Users\m6cup3\Desktop\smra_sols.backup qgis@46.101.216.29:/home/qgis/smra_sols.backup
